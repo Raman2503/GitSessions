@@ -1,4 +1,4 @@
 1. HELLO
-2. second
+2. SECOND
 commit on master
 change in feature
